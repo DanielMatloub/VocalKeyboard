@@ -6,8 +6,6 @@ Dependencies:
 speech_recognition
 pyautogui
 
-Features:
-
 System Commands:
 Move cursor ('left', 'right', 'up', 'down')
 Open new windows or switch between different pages
