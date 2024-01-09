@@ -1,4 +1,5 @@
-Voice-Controlled Python Script for Basic System Control and Web Navigation
+VocalKeyboard: A Voice-Controlled Python Script for Basic System Control and Web Navigation
+
 This Python script demonstrates a voice-controlled interface using the Speech Recognition library (speech_recognition) along with pyautogui, platform, and webbrowser modules. The script allows users to control their system and navigate to specific websites using voice commands.
 
 Dependencies:
